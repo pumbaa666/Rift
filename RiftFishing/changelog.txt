@@ -1,0 +1,13 @@
+v0.6)
+- La source du mini-printscreen ne se déplace plus avec la souris mais reste fixe à l'endoit où se trouvait la souris au moment du lancé de canne.
+- La limite d'appât à utiliser est passée de 20 à 99.
+- La couleur du bouton "Tout prendre" est à présent sauvegardée.
+
+v0.5)
+- Quand on choisi des actions à faire en cas d'arrêt automatique du programme elles ne seront plus effectuées si on presse volontairement sur le bouton Arrêter.
+- Ajout d'une action possible après un arrêt automatique du programme (Presser sur une touche pour TP par ex)
+
+v0.4)
+- Création du changelog ^^
+- Paramétrage de la couleur du bouton "Tout prendre" (Onglet "Démarrage")
+- Suppression de quelque bugs

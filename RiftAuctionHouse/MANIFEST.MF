@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ch.correvon.rift.riftAuctionHouse.use.Main
+Class-Path: ./lib/forms-1.3.0pre4.jar
+

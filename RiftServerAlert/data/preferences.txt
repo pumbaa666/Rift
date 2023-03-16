@@ -1,0 +1,11 @@
+url:http://www.riftgame.com/en/status/eu-status.xml
+server:Rubicon
+check:1
+recheck:15
+queue:10
+population:high
+timeFrom:15h0
+timeTo:19h0
+WOLIP:
+WOLMAC:
+WOLPort:9

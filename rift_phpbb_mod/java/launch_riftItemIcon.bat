@@ -1,0 +1,1 @@
+java -jar riftItemIcon0.1.jar item_icons/

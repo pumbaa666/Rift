@@ -1,0 +1,6 @@
+radioSleep:random
+spinSleep:100
+spinRandomStart:5000
+spinRandomEnd:25700
+spinMainSleep:0
+spinMainSleepRandom:10

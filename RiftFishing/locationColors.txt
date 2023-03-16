@@ -1,0 +1,28 @@
+//						Gorges écarlates
+						pourcentDiffRed > 10 &&
+						pourcentDiffGreen > 10 &&
+						pourcentDiffBlue > 5)
+//						Plaines arides
+//						pourcentDiffRed > 13 &&
+//						pourcentDiffGreen > 5 &&
+//						pourcentDiffBlue > 0)
+							
+//						Libremarche
+//						pourcentDiffRed > 12 &&
+//						pourcentDiffGreen > 12 &&
+//						pourcentDiffBlue > 7)
+
+//						Champ de pierre
+//						pourcentDiffRed > 19 &&
+//						pourcentDiffGreen > 12 &&
+//						pourcentDiffBlue > 5)
+
+//						Ile de braise
+//						pourcentDiffRed > 12 &&
+//						pourcentDiffGreen > 5 &&
+//						pourcentDiffBlue > 0)
+
+//						Pic du pin de fer						
+//						pourcentDiffRed > 20 &&
+//						pourcentDiffGreen > 20 &&
+//						pourcentDiffBlue > 15)
